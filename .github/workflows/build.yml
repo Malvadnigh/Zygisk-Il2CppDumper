@@ -3,8 +3,8 @@ name: Buildon
 on:
   workflow_dispatch:
     inputs:
-      package_name:
-        description: "Package name of the game:"
+      package_name: com.gear2.letsgolegends
+        description: com.gear2.letsgolegends  
         required: true
 
 jobs:
